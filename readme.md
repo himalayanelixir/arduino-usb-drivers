@@ -3,7 +3,7 @@
 
 ###This repo contains the drivers for Windows, Mac, Linux, and Android
 
-###Blog Post with Instructions: [a link](https://blog.harlenbains.com/how-to-install-the-arduino-ch341ser-usb-driver-on-a-mac-3f96ff158a2b)
+###Blog Post with Instructions: [blog.harlenbains.com](https://blog.harlenbains.com/how-to-install-the-arduino-ch341ser-usb-driver-on-a-mac-3f96ff158a2b)
 
 
 
