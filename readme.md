@@ -5,7 +5,6 @@
 
 ###Blog post with instructions: [blog.harlenbains.com](https://blog.harlenbains.com/how-to-install-the-arduino-ch341ser-usb-driver-on-a-mac-3f96ff158a2b)
 
-
 #Note: 
 ###Use the signed drivers unless you have a particular reason for using the unsigned ones. Unsigned drivers require you to remove driver signature enforcement on Windows and Mac.  
 
