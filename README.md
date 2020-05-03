@@ -13,7 +13,7 @@
 
 The CH340 and CH341 USB controllers are commonly found on 3rd party Arduinos. To use them with the Arduino IDE or CLI you need to install extra drivers.
 
-This repo contains the drivers for Linux, macOS, and Windows. Just download the repo and follow the instructions in the corresponding folder. If you have a previously installed a version of these USB drivers, you will likely need to uninstall them before installing the new driver.
+This repo contains the drivers for Linux, macOS, and Windows. Download the repo and follow the instructions in the corresponding folder. If you have a previously installed a version of these drivers, you will likely need to uninstall them before installing the new drivers.
 
 ## <a name='Sources'></a>Sources
 
