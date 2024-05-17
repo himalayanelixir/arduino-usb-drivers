@@ -1,4 +1,4 @@
-# Arduino USB Drivers for CH340 & CH341
+# Arduino USB Drivers
 <!-- vscode-markdown-toc -->
 * [Summary](#Summary)
 * [Sources](#Sources)
