@@ -11,9 +11,7 @@
 
 ## <a name='Summary'></a>Summary
 
-The CH340 and CH341 USB controllers are commonly found on 3rd party Arduinos. To use them with the Arduino IDE or CLI, you need to install these drivers.
-
-Download the repo and follow the instructions in the appropriate folder. If you have a previously installed a version of these drivers, you'll likely need to uninstall them before installing the new drivers.
+To use CH340 and CH341 USB controllers with the Arduino IDE or CLI, download the repository, and follow the instructions in the appropriate folder. If you have any previously installed versions of these drivers, uninstall them before installing the new drivers.
 
 ## <a name='Sources'></a>Sources
 
